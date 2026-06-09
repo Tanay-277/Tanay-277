@@ -1,80 +1,56 @@
 ![alt text](https://raw.githubusercontent.com/Tanay-277/Tanay-277/refs/heads/main/banner.png "banner")
+
+```zsh
+tanay@shinde:~$ cat README.md
 ```
-██████████████████████████████████████████████████████████
-█                                                        █
-█   TANAY SHINDE  /  FRONTEND ENGINEER  /  MUMBAI, IN   █
-█                                                        █
-██████████████████████████████████████████████████████████
+
+```txt
+Building products.
+
+Trying to understand why things feel the way they do.
+
+Sometimes through engineering.
+Sometimes through design.
+Sometimes through writing.
+
+Mostly through paying attention.
 ```
 
 ```zsh
-Last login: Tue Jun 9 2026 from Mumbai, IN
-tanay@shinde:~$ whoami --verbose
+tanay@shinde:~$ ls
 ```
 
-```json
-{
-  "name":     "Tanay Kishore Shinde",
-  "role":     "Frontend Engineer",
-  "location": "Mumbai, IN — 18.97°N 72.83°E",
-  "edu":      "VIT Mumbai · B.Tech IT · GPA 9.6/10",
-  "status":   "OPEN_TO_WORK"  // internships + full-time
-}
+```txt
+AIR/
+RYTM/
+PAY/
 ```
-
----
 
 ```zsh
-tanay@shinde:~$ cat mission.txt
+tanay@shinde:~$ cat notes.txt
 ```
 
-```
-// I build products that feel good after the
-// hundredth interaction, not just the first.
-//
-// Engineering + design = not separate worlds.
-// I live in the overlap.
-```
+```txt
+The interesting part isn't making something work.
 
----
+It's understanding what makes it feel right.
 
-```zsh
-tanay@shinde:~$ ls -la ./work/
+Reducing noise.
+Finding clarity.
+Making complexity feel lighter.
 ```
-
-```
-drwxr-xr-x  nirovia/   # 2025–26   [LIVE]
-```
-> Health-tech startup. Sole frontend engineer. Shipped mobile app + website from scratch.  
-> `React Native` `Expo` `Astro` `GSAP` `Maestro` `EAS`
-
-```
-drwxr-xr-x  rytm/      # 2025      
-```
-> Collaborative music platform. Shared rooms · queue voting · YouTube + Spotify.  
-> `Next.js` `Realtime` `PostgreSQL` `TypeScript`
-
-```
-drwxr-xr-x  pay/       # 2024
-```
-> Peer-to-peer wallet. Friction, minimised.  
-> `React` `Node.js` `MongoDB` `JWT`
-
----
-
----
 
 ```zsh
 tanay@shinde:~$ contact --all
 ```
 
-```
-web     tanayshinde.me
-email   tanayshinde081@gmail.com
-li      linkedin.com/in/t277
-design  behance.net/tanayshinde
+```txt
+web      tanayshinde.me
+mail     tanayshinde081@gmail.com
+li       linkedin.com/in/t277
 ```
 
 ```zsh
 tanay@shinde:~$ █
 ```
+
