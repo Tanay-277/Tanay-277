@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/Tanay-277/Tanay-277/refs/heads/main/banner.png "banner")
+<img src="banner.png" alt="banner" width="500">
 
 ```
 ██████████████████████████████████████████████████████████
