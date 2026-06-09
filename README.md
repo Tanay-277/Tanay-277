@@ -48,7 +48,7 @@ drwxr-xr-x  nirovia/   # 2025–26   [LIVE]
 > `React Native` `Expo` `Astro` `GSAP` `Maestro` `EAS`
 
 ```
-drwxr-xr-x  rytm/      # 2025      [WIP]
+drwxr-xr-x  rytm/      # 2025      
 ```
 > Collaborative music platform. Shared rooms · queue voting · YouTube + Spotify.  
 > `Next.js` `Realtime` `PostgreSQL` `TypeScript`
@@ -60,20 +60,6 @@ drwxr-xr-x  pay/       # 2024
 > `React` `Node.js` `MongoDB` `JWT`
 
 ---
-
-```zsh
-tanay@shinde:~$ skill --list --with-proficiency
-```
-
-```
-React / Next.js   ████████████████████  expert
-React Native      ████████████████████  expert
-TypeScript        ███████████████████░  strong
-GSAP / Motion     ███████████████████░  strong
-Astro             ██████████████████░░  solid
-Node / Prisma     ██████████████████░░  solid
-Figma             █████████████████░░░  good
-```
 
 ---
 
